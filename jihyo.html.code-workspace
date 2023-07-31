@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet"
+    type = "text/css"
+    href = "div.css">
+    <title>Document</title>
+</head>
+<body>
+    <header><h1>I want to fly with AI</h1></header>
+    <div class="mainbox"> <section> <p>lorem ipsum dolor sit amet consectetur adipsicing elit.Itaque,hic alias minima temporibus vitae dolores id consequuntur lab">
+
+    </p>
+</section>
+<div class="bigbox">
+    <div class="smallbox">
+        <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQNYJoZts-WLZU1DkntDLsBrWp8JgwKz_qpdY4ejWcn7w&usqp=CAU&ec=48665698" id="i1">
+        </div>
+        <div class="smallbox">
+            <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRmi6SRpgNt8so25G2hc-g8j5gLrl7vjjr-fP4CN0U3bQ&usqp=CAU&ec=48665698" id="i2">
+            </div>
+        </div>
+    </div>
+</body>
+</html>
